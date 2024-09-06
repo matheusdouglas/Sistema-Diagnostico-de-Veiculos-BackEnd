@@ -1,0 +1,1241 @@
+code,description,detailedDescription
+B1000, FalhaECU, Falha na ECU
+B3040, ComunMotorImobil, Comunicação entre a ECU do motor e o imobilizador
+B3042, ComunMotorImobil, Comunicação entre a ECU do motor e o imobilizador
+B3043, ComunMotorImobil, Comunicação entre a ECU do motor e o imobilizador
+B3045, SinalSistAlarme, Sinal do sistema de alarme
+B3048, SinalSistAlarme, Sinal do sistema de alarme
+B3050, CircImobilizador, Circuito do imobilizador
+B3053, CircImobilizador, Circuito do imobilizador
+B3055, SinalTransponder, Sinal do transponder
+B3056, ChaveNaoProgr, Chave não programada
+B3057, ImobNaoProgramad, Imobilizador não programado
+B3059, ComunMotorImobil, Comunicação entre a ECU do motor e o imobilizador
+B3060, ChaveNaoProgr, Chave não programada
+B3061, ChaveIncorreta, Chave Incorreta
+B3077, ChaveIncorreta, Chave Incorreta
+C0035, SensVelocRodaDE, Sensor de velocidade da roda dianteira esquerda
+C0040, SensVelocRodaDD, Sensor de velocidade da roda dianteira direita
+C0045, SensVelocRodaTE, Sensor de velocidade da roda traseira esquerda
+C0050, SensVelocRodaTD, Sensor de velocidade da roda traseira direita
+C0060, ValvulaSaidaDE, Válvula de saída dianteira esquerda
+C0065, ValvulaEntradaDE, Válvula de entrada dianteira esquerda
+C0070, ValvulaSaidaDD, Válvula de saída dianteira direita
+C0075, ValvulaEntradaDD, Válvula de entrada dianteira direita
+C0080, ValvulaSaidaTE, Válvula de saída traseira esquerda
+C0085, ValvulaEntradaTE, Válvula de entrada traseira esquerda
+C0090, ValvulaSaidaTD, Válvula de saída traseira direita
+C0095, ValvulaEntradaTD, Válvula de entrada traseira direita
+C0110, BombaHidraulABS, Bomba hidraulica ABS
+C0121, ReleValvula, Relé da válvula
+C0141, ValvContrTracao, Válvula de tração
+C0146, ValvContrTracao, Válvula de controle de tração
+C0151, ValvContrTracao, Válvula de controle de tração
+C0156, ValvContrTracao, Válvula de controle de tração
+C0161, InterruptorFreio, Interruptor do freio
+C0221, SensVelocRodaDD, Sensor de velocidade da roda dianteira direita
+C0222, SensVelocRodaDD, Sensor de velocidade da roda dianteira direita
+C0223, SensVelocRodaDD, Sensor de velocidade da roda dianteira direita
+C0225, SensVelocRodaDE, Sensor de velocidade da roda dianteira esquerda
+C0226, SensVelocRodaDE, Sensor de velocidade da roda dianteira esquerda
+C0227, SensVelocRodaDE, Sensor de velocidade da roda dianteira esquerda
+C0229, SensorVelocDiant, Sensor de velocidade dianteiro
+C0235, SensorVelocTras, Sensor de velociadde traseiro
+C0236, SinalRotacaoMtr, Sinal de rotação do motor
+C0237, SensorVelocTras, Sensor de velociadde traseiro
+C0238, SensVelocidRoda, Sensor de velocidade da roda
+C0241, CorteIgnInjecao, Corte da ignição/injeção
+C0242, ValvulaSaidaDD, Válvula de saída dianteira direita
+C0243, ValvulaEntradaDD, Válvula de entrada dianteira direita
+C0244, SensorPosicBorb, Sensor de posição da borboleta
+C0245, SensVelocidRoda, Sensor de velocidade da roda
+C0246, ValvulaSaidaDE, Válvula de saída dianteira esquerda
+C0247, ValvulaEntradaDE, Válvula de entrada dianteira esquerda
+C0248, ValvulaSaidaDE, Válvula de saída dianteira esquerda
+C0251, ValvulaTraseira, Válvula traseira
+C0252, ValvulaTraseira, Válvula traseira
+C0253, ValvulaTraseira, Válvula traseira
+C0254, ValvulaTraseira, Válvula traseira
+C0265, ReleAlimentABS, Relé de alimentação do ABS
+C0266, ReleAlimentABS, Relé de alimentação do ABS
+C0267, MotorBomba, Motor da bomba
+C0268, MotorBomba, Motor da bomba
+C0269, SensorPressao, Sensor de pressão
+C0271, FalhaMemoriaRAM, Falha de memória RAM
+C0272, FalhaMemoriaROM, Falha de memória ROM
+C0273, ECU, ABS ECU do ABS
+C0274, ValvulaEntrada, Válvula de entrada
+C0281, InterruptorFreio, Interruptor do freio
+C0284, ECU, ABS ECU do ABS
+C0286, IndicadorABS, Indicador do ABS
+C0288, IndicadorABS, Indicador do ABS
+C0550, FalhaECU, Falha na ECU
+C0551, ControleTracao, Controle de tração
+C0800, Tensao, Bateria Tensão da bateria
+P0001, RegFluxoCombust, Regulador de fluxo de combustível
+P0002, RegFluxoCombust, Regulador de fluxo de combustível
+P0003, RegFluxoCombust, Regulador de fluxo de combustível
+P0004, RegFluxoCombust, Regulador de fluxo de combustível 3
+P0005, InterInercial, Interruptor inercial
+P0006, InterInercial, Interruptor inercial
+P0007, InterInercial, Interruptor inercial
+P0008, SistPosicMotor, Sistema de posição do motor
+P0009, SistPosicMotor, Sistema de posição do motor
+P0010, PosicComanValv, Posição do comando de válvulas
+P0011, PosicComanValv, Posição do comando de válvulas
+P0012, PosicComanValv, Posição do comando de válvulas
+P0013, PosicComanValv, Posição do comando de válvulas
+P0014, PosicComanValv, Posição do comando de válvulas
+P0015, PosicComanValv, Posição do comando de válvulas
+P0016, PosVirabComValv, Sincronismo virabrequim e comando de válvulas
+P0017, PosVirabComValv, Sincronismo virabrequim e comando de válvulas
+P0018, PosVirabComValv, Sincronismo virabrequim e comando de válvulas
+P0019, PosVirabComValv, Sincronismo virabrequim e comando de válvulas
+P0020, PosicComanValv, Posição do comando de válvulas
+P0021, PosicComanValv, Posição do comando de válvulas
+P0022, PosicComanValv, Posição do comando de válvulas
+P0023, PosicComanValv, Posição do comando de válvulas
+P0024, PosicComanValv, Posição do comando de válvulas
+P0025, PosicComanValv, Posição do comando de válvulas
+P0026, CircValvEntrada, Circuito da válvula de entrada
+P0027, CircValvSaida, Circuito da válvula de saída
+P0028, CircValvEntrada, Circuito da válvula de entrada
+P0029, CircValvSaida, Circuito da válvula de saída
+P0030, AquecLambda1B1, Aquecedor da sonda lambda 1 banco 1
+P0031, AquecLambda1B1, Aquecedor da sonda lambda 1 banco 1
+P0032, AquecLambda1B1, Aquecedor da sonda lambda 1 banco 1
+P0033, ValvPressaoTurbo, Válvula de pressão do turbo
+P0034, ValvPressaoTurbo, Válvula de pressão do turbo
+P0035, ValvPressaoTurbo, Válvula de pressão do turbo
+P0036, AquecLambda2B1, Aquecedor da sonda lambda 2 banco 1
+P0037, AquecLambda2B1, Aquecedor da sonda lambda 2 banco 1
+P0038, AquecLambda2B1, Aquecedor da sonda lambda 2 banco 1
+P0039, ValvDerivTurbo, Válvula de derivação do turbo
+P0040, SinalSondaLambda, Sinal da sonda lambda
+P0041, SinalSondaLambda, Sinal da sonda lambda
+P0042, AquecLambda3B1, Aquecedor da sonda lambda 3 banco 1
+P0043, AquecLambda3B1, Aquecedor da sonda lambda 3 banco 1
+P0044, AquecLambda3B1, Aquecedor da sonda lambda 3 banco 1
+P0045, ValvPressaoTurbo, Válvula de pressão do turbo
+P0046, ValvPressaoTurbo, Válvula de pressão do turbo
+P0047, ValvPressaoTurbo, Válvula de pressão do turbo
+P0048, ValvPressaoTurbo, Válvula de pressão do turbo P0049 Turbina Turbina
+P0050, AquecLambda1B2, Aquecedor da sonda lambda 1 banco 2
+P0051, AquecLambda1B2, Aquecedor da sonda lambda 1 banco 2
+P0052, AquecLambda1B2, Aquecedor da sonda lambda 1 banco 2
+P0053, AquecLambda1B1, Aquecedor da sonda lambda 1 banco 1
+P0054, AquecLambda2B1, Aquecedor da sonda lambda 2 banco 1
+P0055, AquecLambda3B1, Aquecedor da sonda lambda 3 banco 1
+P0056, AquecLambda2B2, Aquecedor da sonda lambda 2 banco 2
+P0057, AquecLambda2B2, Aquecedor da sonda lambda 2 banco 2
+P0058, AquecLambda2B2, Aquecedor da sonda lambda 2 banco 2
+P0059, AquecLambda1B2, Aquecedor da sonda lambda 1 banco 2
+P0060, AquecLambda2B2, Aquecedor da sonda lambda 2 banco 2
+P0061, AquecLambda3B2, Aquecedor da sonda lambda 3 banco 2
+P0062, AquecLambda3B2, Aquecedor da sonda lambda 3 banco 2
+P0063, AquecLambda3B2, Aquecedor da sonda lambda 3 banco 2
+P0064, AquecLambda3B2, Aquecedor da sonda lambda 3 banco 2
+P0065, InjetorAr, Injetor de ar
+P0066, InjetorAr, Injetor de ar
+P0067, InjetorAr, Injetor de ar
+P0068, RelMAPMAFBorb, Relação MAP  MAF e posição da borboleta
+P0069, RelMAPPresBarom, Relação MAP e pressão barométrica
+P0070, TemperArExterior, Temperatura do ar exterior
+P0071, TemperArExterior, Temperatura do ar exterior
+P0072, TemperArExterior, Temperatura do ar exterior
+P0073, TemperArExterior, Temperatura do ar exterior
+P0074, TemperArExterior, Temperatura do ar exterior
+P0075, CircValvEntrada, Circuito da válvula de entrada
+P0076, CircValvEntrada, Circuito da válvula de entrada
+P0077, CircValvEntrada, Circuito da válvula de entrada
+P0078, CircValvSaida, Circuito da válvula de saída
+P0079, CircValvSaida, Circuito da válvula de saída
+P0080, CircValvSaida, Circuito da válvula de saída
+P0081, CircValvEntrada, Circuito da válvula de entrada
+P0082, CircValvEntrada, Circuito da válvula de entrada
+P0083, CircValvEntrada, Circuito da válvula de entrada
+P0084, CircValvSaida, Circuito da válvula de saída
+P0085, CircValvSaida, Circuito da válvula de saída
+P0086, CircValvSaida, Circuito da válvula de saída
+P0087, PressaoSistema, Pressão do sistema
+P0088, PressaoSistema, Pressão do sistema
+P0089, RegFluxoCombust, Regulador de fluxo de combustível
+P0090, ValvDosadComb, Válvula dosadora de combustível
+P0091, ValvDosadComb, Válvula dosadora de combustível
+P0092, ValvDosadComb, Válvula dosadora de combustível
+P0093, VazamSistCombust, Vazamento do sistema de combustível
+P0094, VazamSistCombust, Vazamento do sistema de combustível
+P0095, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P0096, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P0097, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P0098, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P0099, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P0100, SensorMAF,Sensor MAF
+P0101, SensorMAF, Sensor MAF
+P0102, SensorMAF, Sensor MAF
+P0103, SensorMAF, Sensor MAF
+P0104, SensorMAF, Sensor MAF
+P0105, SensorMAP, Sensor MAP
+P0106, SensorMAP, Sensor MAP
+P0107, SensorMAP, Sensor MAP
+P0108, SensorMAP, Sensor MAP
+P0109, SensorMAP, Sensor MAP
+P0110, CircTempArColet, Circuito da temperatura do ar do coletor
+P0111, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P0112, CircTempArColet, Circuito da temperatura do ar do coletor
+P0113, CircTempArColet, Circuito da temperatura do ar do coletor
+P0114, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P0115, SensTempAgua, Sensor de Temperatura da água
+P0116, SensTempAgua, Sensor de Temperatura da água
+P0117, SensTempAgua, Sensor de Temperatura da água
+P0118, SensTempAgua, Sensor de Temperatura da água
+P0119, SensTempAgua, Sensor de Temperatura da água
+P0120, SensorPosicBorb, Sensor de posição da borboleta
+P0121, PotencBorboletaA, Potenciômetro da borboleta A
+P0122, PotencBorboletaA, Potenciômetro da borboleta A
+P0123, PotencBorboletaA, Potenciômetro da borboleta A
+P0124, SensorPosicBorb, Sensor de posição da borboleta
+P0125, TemperaturaAgua, Temperatura da água
+P0126, TemperaturaAgua, Temperatura da água
+P0127, TemperatAdmiss, Temperatura da Admissão
+P0128, TemperaturaAgua, Temperatura da água
+P0129, PressBarometrica, Pressão barométrica
+P0130, SondaLambda, Sonda Lambda
+P0131, SondaLambda1B1, Sonda Lambda 1 banco 1
+P0132, SondaLambda1B1, Sonda Lambda 1 banco 1
+P0133, SondaLambda1B1, Sonda Lambda 1 banco 1
+P0134, SondaLambda1B1, Sonda Lambda 1 banco 1
+P0135, AquecLambda1B1, Aquecedor da sonda lambda 1 banco 1
+P0136, SondaLambda2B1, Sonda lambda 2 banco 1
+P0137, SondaLambda2B1, Sonda lambda 2 banco 1
+P0138, SondaLambda2B1, Sonda lambda 2 banco 1
+P0139, SondaLambda2B1, Sonda lambda 2 banco 1
+P0140, SondaLambda2B1, Sonda lambda 2 banco 1
+P0141, AquecLambda2B1, Aquecedor da sonda lambda 2 banco 1
+P0142, AquecLambda3B1, Aquecedor da sonda lambda 3 banco 1
+P0143, AquecLambda3B1, Aquecedor da sonda lambda 3 banco 1
+P0144, SondaLambda3B1, Sonda lambda 3 banco 1
+P0145, SondaLambda3B1, Sonda lambda 3 banco 1
+P0146, SondaLambda3B1, Sonda lambda 3 banco 1
+P0147, AquecLambda3B1, Aquecedor da sonda lambda 3 banco 1
+P0148, RegFluxoCombust, Regulador de fluxo de combustível
+P0149, RegFluxoCombust, Regulador de fluxo de combustível
+P0150, SondaLambda1B2, Sonda Lambda 1 banco 2
+P0151, SondaLambda1B2, Sonda Lambda 1 banco 2
+P0152, SondaLambda1B2, Sonda Lambda 1 banco 2
+P0153, SondaLambda1B2, Sonda Lambda 1 banco 2
+P0154, SondaLambda1B2, Sonda Lambda 1 banco 2
+P0155, AquecLambda1B2, Aquecedor da sonda lambda 1 banco 2
+P0156, SondaLambda2B2, Sonda lambda 2 banco 2
+P0157, SondaLambda2B2, Sonda lambda 2 banco 2
+P0158, SondaLambda2B2, Sonda lambda 2 banco 2
+P0159, SondaLambda2B2, Sonda lambda 2 banco 2
+P0160, SondaLambda2B2, Sonda lambda 2 banco 2
+P0161, AquecLambda2B2, Aquecedor da sonda lambda 2 banco 2
+P0162, SondaLambda3B2, Sonda lambda 3 banco 2
+P0163, SondaLambda3B2, Sonda lambda 3 banco 2
+P0164, SondaLambda3B2, Sonda lambda 3 banco 2
+P0165, SondaLambda3B2, Sonda lambda 3 banco 2
+P0166, SondaLambda3B2, Sonda lambda 3 banco 2
+P0167, AquecLambda3B2, Aquecedor da sonda lambda 3 banco 2
+P0168, SensTempCombust, Sensor de temperatura do combustível
+P0169, CompCombIncorr, Composição do combustível incorreta
+P0170, SondaLambda, Sonda Lambda
+P0171, MisturaMuitPobre, Mistura muito pobre
+P0172, MisturaMuitoRica, Mistura muito rica
+P0173, RegulacaoInjecao, Regulação da injeção
+P0174, MisturaMuitPobre, Mistura muito pobre
+P0175, MisturaMuitoRica, Mistura muito rica
+P0176, SensCompCombust, Sensor de composição do combustível
+P0177, SensCompCombust, Sensor de composição do combustível
+P0178, SensCompCombust, Sensor de composição do combustível
+P0179, SensCompCombust, Sensor de composição do combustível
+P0180, SensTempCombust, Sensor de temperatura do combustível
+P0181, SensTempCombust, Sensor de temperatura do combustível
+P0182, TemperatCombust, Temperatura do combustível
+P0183, TemperatCombust, Temperatura do combustível
+P0184, SensTempCombust, Sensor de temperatura do combustível
+P0185, SensTempCombust, Sensor de temperatura do combustível
+P0186, SensTempCombust, Sensor de temperatura do combustível
+P0187, TemperatCombust, Temperatura do combustível
+P0188, TemperatCombust, Temperatura do combustível
+P0189, SensTempCombust, Sensor de temperatura do combustível
+P0190, SensorPresCombus, Sensor de pressão do combustível
+P0191, SensorPresCombus, Sensor de pressão do combustível
+P0192, SensorPresCombus, Sensor de pressão do combustível
+P0193, SensorPresCombus, Sensor de pressão do combustível
+P0194, SensorPresCombus, Sensor de pressão do combustível
+P0195, SensorTempOleo, Sensor de temperatura do óleo
+P0196, SensorTempOleo, Sensor de temperatura do óleo
+P0197, SensorTempOleo, Sensor de temperatura do óleo
+P0198, SensorTempOleo, Sensor de temperatura do óleo
+P0199, SensorTempOleo, Sensor de temperatura do óleo
+P0200, Injetor, Injetor
+P0201, Injetor1, Injetor 1
+P0202, Injetor2, Injetor 2
+P0203, Injetor3, Injetor 3
+P0204, Injetor4, Injetor 4
+P0205, Injetor5, Injetor 5
+P0206, Injetor6, Injetor 6
+P0207, Injetor7, Injetor 7
+P0208, Injetor8, Injetor 8
+P0209, Injetor9, Injetor 9
+P0210, Injetor10, Injetor 10
+P0211, Injetor11, Injetor 11
+P0212, Injetor12, Injetor 12
+P0213, InjetorPartFrio, Injetor de partida a frio
+P0214, InjetorPartFrio, Injetor de partida a frio
+P0215, InterInercial, Interruptor inercial
+P0216, RegFluxoCombust, Regulador de fluxo de combustível
+P0217, TemperaturaMotor, Temperatura do motor
+P0218, TemperatTranmiss, Temperatura da transmissão
+P0219, Sobrerotacao, Sobrerotação do motor
+P0220, SensorPosicBorb, Sensor de posição da borboleta
+P0221, SensorPosicBorb, Sensor de posição da borboleta
+P0222, PotencBorboletaB, Potenciômetro da borboleta B
+P0223, PotencBorboletaB, Potenciômetro da borboleta B
+P0224, SensorPosicBorb, Sensor de posição da borboleta
+P0225, SensorPosicBorb, Sensor de posição da borboleta
+P0226, SensorPosicBorb, Sensor de posição da borboleta
+P0227, SensorPosicBorb, Sensor de posição da borboleta
+P0228, SensorPosicBorb, Sensor de posição da borboleta
+P0229, SensorPosicBorb, Sensor de posição da borboleta
+P0230, ReleBombaCombust, Relê da bomba de combustível
+P0231, ReleBombaCombust, Relê da bomba de combustível
+P0232, ReleBombaCombust, Relê da bomba de combustível
+P0233, ReleBombaCombust, Relê da bomba de combustível
+P0234, SistemaTurbo, Sistema turbo P0235 SistemaTurbo Sistema turbo
+P0236, SensorMAP, Sensor MAP P0237 SensorMAP Sensor MAP
+P0238, SensorMAP, Sensor MAP
+P0239, SemAplicPresente, Nenhuma aplicação presente
+P0240, SemAplicPresente, Nenhuma aplicação presente
+P0241, SemAplicPresente, Nenhuma aplicação presente
+P0242, SemAplicPresente, Nenhuma aplicação presente
+P0243, ValvAlivioTurbo, Válvula de alívio do turbo
+P0244, ValvAlivioTurbo, Válvula de alívio do turbo
+P0245, ValvAlivioTurbo, Válvula de alívio do turbo
+P0246, ValvAlivioTurbo, Válvula de alívio do turbo
+P0247, ValvAlivioTurbo, Válvula de alívio do turbo
+P0248, ValvAlivioTurbo, Válvula de alívio do turbo
+P0249, ValvAlivioTurbo, Válvula de alívio do turbo
+P0250, ValvAlivioTurbo, Válvula de alívio do turbo
+P0251, BombaCombustivel, Bomba de combustível
+P0252, BombaCombustivel, Bomba de combustível
+P0253, BombaCombustivel, Bomba de combustível
+P0254, BombaCombustivel, Bomba de combustível
+P0255, BombaCombustivel, Bomba de combustível
+P0256, BombaCombustivel, Bomba de combustível
+P0257, BombaCombustivel, Bomba de combustível
+P0258, BombaCombustivel, Bomba de combustível
+P0259, BombaCombustivel, Bomba de combustível
+P0260, BombaCombustivel, Bomba de combustível
+P0261, Injetor1, Injetor 1
+P0262, Injetor1, Injetor 1
+P0263, FalhaIgnicaoCil1, Falha de ignição no cilindro 1
+P0264, Injetor2, Injetor 2
+P0265, Injetor2, Injetor 2
+P0266, FalhaIgnicaoCil2, Falha de ignição no cilindro 2
+P0267, Injetor3, Injetor 3
+P0268, Injetor3, Injetor 3
+P0269, FalhaIgnicaoCil3, Falha de ignição no cilindro 3
+P0270, Injetor4, Injetor 4
+P0271, Injetor4, Injetor 4
+P0272, FalhaIgnicaoCil4, Falha de ignição no cilindro 4
+P0273, Injetor5, Injetor 5
+P0274, Injetor5, Injetor 5 9
+P0275, FalhaIgnicaoCil5, Falha de ignição no cilindro 5
+P0276, Injetor6, Injetor 6
+P0277, Injetor6, Injetor 6
+P0278, FalhaIgnicaoCil6, Falha de ignição no cilindro 6
+P0279, Injetor7, Injetor 7
+P0280, Injetor7, Injetor 7
+P0281, FalhaIgnicaoCil7, Falha de ignição no cilindro 7
+P0282, Injetor8, Injetor 8 P0283 Injetor8 Injetor 8
+P0284, FalhaIgnicaoCil8, Falha de ignição no cilindro 8
+P0285, Injetor9, Injetor 9
+P0286, Injetor9, Injetor 9
+P0287, FalhaIgnicaoCil9, Falha de ignição no cilindro 9
+P0288, Injetor10, Injetor 10
+P0289, Injetor10, Injetor 10
+P0290, FalhaIgnicCil10, Falha de ignição no cilindro 10
+P0291, Injetor11, Injetor 11
+P0292, Injetor11, Injetor 11
+P0293, FalhaIgnicCil11, Falha de ignição no cilindro 11
+P0294, Injetor12, Injetor 12
+P0295, Injetor12, Injetor 12
+P0296, FalhaIgnicCil12, Falha de ignição no cilindro 12
+P0297, Sobrevelocidade, Sobrevelocidade
+P0298, TempOleoAlta, Temperatura do óleo alta
+P0299, SistemaTurbo, Sistema turbo
+P0300, FalhaIgnicao, Falha de ignição
+P0301, FalhaIgnicaoCil1, Falha de ignição no cilindro 1
+P0302, FalhaIgnicaoCil2, Falha de ignição no cilindro 2
+P0303, FalhaIgnicaoCil3, Falha de ignição no cilindro 3
+P0304, FalhaIgnicaoCil4, Falha de ignição no cilindro 4
+P0305, FalhaIgnicaoCil5, Falha de ignição no cilindro 5
+P0306, FalhaIgnicaoCil6, Falha de ignição no cilindro 6
+P0307, FalhaIgnicaoCil7, Falha de ignição no cilindro 7
+P0308, FalhaIgnicaoCil8, Falha de ignição no cilindro 8
+P0309, FalhaIgnicaoCil9, Falha de ignição no cilindro 9
+P0310, FalhaIgnicCil10, Falha de ignição no cilindro 10
+P0311, FalhaIgnicCil11, Falha de ignição no cilindro 11
+P0312, FalhaIgnicCil12, Falha de ignição no cilindro 12
+P0313, FalhaIgnicaoCil, Falha de ignição em cilindro
+P0314, FalhaIgnicaoCil, Falha de ignição em cilindro
+P0315, PosicVirabrequim, Posição do virabrequim
+P0316, FalhaIgnicaoCil, Falha de ignição em cilindro
+P0317, SensTerrenIrreg, Sensor de terreno irregular
+P0318, SensTerrenIrreg, Sensor de terreno irregular
+P0319, SensTerrenIrreg, Sensor de terreno irregular 10
+P0320, SensorRotacao, Sensor de rotação
+P0321, SensorRotacao, Sensor de rotação
+P0322, SensorRotacao, Sensor de rotação
+P0323, SensorRotacao, Sensor de rotação
+P0324, Detonacao, Detonação
+P0325, SensorDetonacao, Sensor de detonação
+P0326, SensorDetonac1, Sensor de detonação 1
+P0327, SensorDetonacao, Sensor de detonação
+P0328, SensorDetonac1, Sensor de detonação 1
+P0329, SensorDetonac1, Sensor de detonação 1
+P0330, SensorDetonac2, Sensor de detonação 2
+P0331, SensorDetonac2, Sensor de detonação 2
+P0332, SensorDetonac2, Sensor de detonação 2
+P0333, SensorDetonac2, Sensor de detonação 2
+P0334, SensorDetonac2, Sensor de detonação 2
+P0335, SinalRotacao, Sinal de rotação
+P0336, SensorRotacao, Sensor de rotação
+P0337, SensorRotacao, Sensor de rotação
+P0338, SensorRotacao, Sensor de rotação
+P0339, SensorRotacao, Sensor de rotação
+P0340, PosicComanValv, Posição do comando de válvulas
+P0341, PosicComanValv, Posição do comando de válvulas
+P0342, SensorFase, Sensor de posição do comando de vávulas
+P0343, SensorFase, Sensor de posição do comando de vávulas
+P0344, SensorFase, Sensor de posição do comando de vávulas
+P0345, SensorFase, Sensor de posição do comando de vávulas
+P0346, SensorFase, Sensor de posição do comando de vávulas
+P0347, SensorFase, Sensor de posição do comando de vávulas
+P0348, SensorFase, Sensor de posição do comando de vávulas
+P0349, SensorFase, Sensor de posição do comando de vávulas
+P0350, BobinaIgnicao, Bobina de ignição
+P0351, BobinaIgnicao, Bobina de ignição
+P0352, BobinaIgnicao, Bobina de ignição
+P0353, BobinaIgnicao, Bobina de ignição
+P0354, BobinaIgnicao, Bobina de ignição
+P0355, BobinaIgnicao, Bobina de ignição
+P0356, BobinaIgnicao, Bobina de ignição
+P0357, BobinaIgnicao, Bobina de ignição
+P0358, BobinaIgnicao, Bobina de ignição
+P0359, BobinaIgnicao, Bobina de ignição
+P0360, BobinaIgnicao, Bobina de ignição
+P0361, BobinaIgnicao, Bobina de ignição
+P0362, BobinaIgnicao, Bobina de ignição
+P0363, FalhaIgnicaoCil, Falha de ignição em cilindro
+P0365, SensorFase, Sensor de posição do comando de vávulas 11
+P0366, SensorFase, Sensor de posição do comando de vávulas
+P0367, SensorFase, Sensor de posição do comando de vávulas
+P0368, SensorFase, Sensor de posição do comando de vávulas
+P0369, SensorFase, Sensor de posição do comando de vávulas
+P0370, ReferencRegulac, Referência de regulação
+P0371, ReferencRegulac, Referência de regulação
+P0372, ReferencRegulac, Referência de regulação
+P0373, ReferencRegulac, Referência de regulação
+P0374, ReferencRegulac, Referência de regulação
+P0375, ReferencRegulac, Referência de regulação
+P0376, ReferencRegulac, Referência de regulação
+P0377, ReferencRegulac, Referência de regulação
+P0378, ReferencRegulac, Referência de regulação
+P0379, ReferencRegulac, Referência de regulação
+P0380, VelaIgnicao, Vela de ignição
+P0381, VelaIgnicao, Vela de ignição
+P0382, VelaIgnicao, Vela de ignição
+P0385, PosicVirabrequim, Posição do virabrequim
+P0386, PosicVirabrequim, Posição do virabrequim
+P0387, PosicVirabrequim, Posição do virabrequim
+P0388, PosicVirabrequim, Posição do virabrequim
+P0389, PosicVirabrequim, Posição do virabrequim
+P0391, SensorFase, Sensor de posição do comando de vávulas
+P0392, SensorFase, Sensor de posição do comando de vávulas
+P0393, SensorFase, Sensor de posição do comando de vávulas
+P0394, SensorFase, Sensor de posição do comando de vávulas
+P0400, SistemaEGR, Sistema EGR
+P0401, SistemaEGR, Sistema EGR
+P0402, SistemaEGR, Sistema EGR
+P0403, SistemaEGR, Sistema EGR
+P0404, SistemaEGR, Sistema EGR
+P0405, SensorEGR, Sensor de EGR
+P0406, SensorEGR, Sensor de EGR
+P0407, SensorEGR, Sensor de EGR
+P0408, SensorEGR, Sensor de EGR
+P0409, SensorEGR, Sensor de EGR
+P0410, SistemaInjecaoAr, Sistema de injeção de ar
+P0411, SistemaInjecaoAr, Sistema de injeção de ar
+P0412, SistemaInjecaoAr, Sistema de injeção de ar
+P0413, SistemaInjecaoAr, Sistema de injeção de ar
+P0414, SistemaInjecaoAr, Sistema de injeção de ar
+P0415, SistemaInjecaoAr, Sistema de injeção de ar
+P0416, SistemaInjecaoAr, Sistema de injeção de ar
+P0417, SistemaInjecaoAr, Sistema de injeção de ar
+P0418, Rele, Bomba Ar Rele da bomba de ar 12
+P0419, Rele, Bomba Ar Rele da bomba de ar
+P0420, Catalisador, Catalisador
+P0421, Catalisador, Catalisador
+P0422, Catalisador, Catalisador
+P0423, Catalisador, Catalisador
+P0424, Catalisador, Catalisador
+P0425, SensTempCatalis, Sensor de temperatura do catalisador
+P0426, SensTempCatalis, Sensor de temperatura do catalisador
+P0427, SensTempCatalis, Sensor de temperatura do catalisador
+P0428, SensTempCatalis, Sensor de temperatura do catalisador
+P0429, AquecCatalisador, Aquecedor do catalisador
+P0430, Catalisador, Catalisador
+P0431, Catalisador, Catalisador
+P0432, Catalisador, Catalisador
+P0433, Catalisador, Catalisador
+P0434, Catalisador, Catalisador
+P0435, SensTempCatalis, Sensor de temperatura do catalisador
+P0436, SensTempCatalis, Sensor de temperatura do catalisador
+P0437, SensTempCatalis, Sensor de temperatura do catalisador
+P0438, SensTempCatalis, Sensor de temperatura do catalisador
+P0439, AquecCatalisador, Aquecedor do catalisador
+P0440, SistemaCanister, Sistema Canister
+P0441, ValvulaCanister, Válvula Canister
+P0442, ValvulaCanister, Válvula Canister
+P0443, ValvulaCanister, Válvula Canister
+P0444, ValvulaCanister, Válvula Canister
+P0445, ValvulaCanister, Válvula Canister
+P0446, SistemaCanister, Sistema Canister
+P0447, SistemaCanister, Sistema Canister
+P0448, SistemaCanister, Sistema Canister
+P0449, SistemaCanister, Sistema Canister
+P0450, SistemaCanister, Sistema Canister
+P0451, SistemaCanister, Sistema Canister
+P0452, ValvulaCanister, Válvula Canister
+P0453, ValvulaCanister, Válvula Canister
+P0454, SistemaCanister, Sistema Canister
+P0455, ValvulaCanister, Válvula Canister
+P0456, SistemaCanister, Sistema Canister
+P0457, SistemaCanister, Sistema Canister
+P0458, SistemaCanister, Sistema Canister
+P0459, SistemaCanister, Sistema Canister
+P0460, SinalNivelTanque, Sinal do nível do tanque
+P0461, SensNivelTanque, Sensor de nível do tanque
+P0462, SensNivelTanque, Sensor de nível do tanque
+P0463, SensNivelTanque, Sensor de nível do tanque
+P0464, SensNivelTanque, Sensor de nível do tanque
+P0465, SistemaCanister, Sistema Canister
+P0466, SistemaCanister, Sistema Canister
+P0467, SistemaCanister, Sistema Canister
+P0468, SistemaCanister, Sistema Canister
+P0469, SistemaCanister, Sistema Canister
+P0470, SensPressEscape, Sensor de pressão do gás do escape
+P0471, SensPressEscape, Sensor de pressão do gás do escape
+P0472, SensPressEscape, Sensor de pressão do gás do escape
+P0473, SensPressEscape, Sensor de pressão do gás do escape
+P0474, SensPressEscape, Sensor de pressão do gás do escape
+P0475, ValvPressEscape, Válvula de pressão do gás do escape
+P0476, ValvPressEscape, Válvula de pressão do gás do escape
+P0477, ValvPressEscape, Válvula de pressão do gás do escape
+P0478, ValvPressEscape, Válvula de pressão do gás do escape
+P0479, ValvPressEscape, Válvula de pressão do gás do escape
+P0480, ContrVentBaixa, Controle do ventilador - baixa velocidade
+P0481, ContrVentAlta, Controle do ventilador - alta velocidade
+P0482, Ventilador, Ventilador
+P0483, Ventilador, Ventilador
+P0484, Ventilador, Ventilador
+P0485, Ventilador, Ventilador
+P0486, SensorEGR, Sensor de EGR
+P0487, SistemaEGR, Sistema EGR
+P0488, SistemaEGR, Sistema EGR
+P0489, SistemaEGR, Sistema EGR
+P0490, SistemaEGR, Sistema EGR
+P0491, SistemaInjecaoAr, Sistema de injeção de ar
+P0492, SistemaInjecaoAr, Sistema de injeção de ar
+P0493, Ventilador, Ventilador
+P0494, Ventilador, Ventilador
+P0495, Ventilador, Ventilador
+P0496, SistemaCanister, Sistema Canister
+P0497, SistemaCanister, Sistema Canister
+P0498, SistemaCanister, Sistema Canister
+P0499, SistemaCanister, Sistema Canister
+P0500, SinalVelocidade, Sinal de velocidade
+P0501, SensorVelocidade, Sensor de velocidade do veículo
+P0502, SensorVelocidade, Sensor de velocidade do veículo
+P0503, SensorVelocidade, Sensor de velocidade do veículo
+P0504, InterruptorFreio, Interruptor do freio
+P0505, SistControleML, Sistema de controle de marcha lenta
+P0506, SistControleML, Sistema de controle de marcha lenta
+P0507, SistControleML, Sistema de controle de marcha lenta
+P0508, SistControleML, Sistema de controle de marcha lenta
+P0509, SistControleML, Sistema de controle de marcha lenta
+P0510, InterPosicBorbol, Interruptor de posição da borboleta
+P0511, SistControleML, Sistema de controle de marcha lenta
+P0512, MotorArranque, Motor de arranque
+P0513, ChaveIncorreta, Chave Incorreta
+P0514, SensTempBateria, Sensor de temperatura da bateria
+P0515, SensTempBateria, Sensor de temperatura da bateria
+P0516, SensTempBateria, Sensor de temperatura da bateria
+P0517, SensTempBateria, Sensor de temperatura da bateria
+P0518, SistControleML, Sistema de controle de marcha lenta
+P0519, SistControleML, Sistema de controle de marcha lenta
+P0520, SenPrOleo, Sensor de Pressão do óleo
+P0521, SenPrOleo, Sensor de Pressão do óleo
+P0522, SenPrOleo, Sensor de Pressão do óleo
+P0523, SenPrOleo, Sensor de Pressão do óleo
+P0524, PressaoOleoMotor, Pressão do óleo do motor
+P0525, SistPilotoAutom, Sistema de piloto automático
+P0526, SenVelocVentilad, Sensor de velocidade do ventilador
+P0527, SenVelocVentilad, Sensor de velocidade do ventilador
+P0528, SenVelocVentilad, Sensor de velocidade do ventilador
+P0529, SenVelocVentilad, Sensor de velocidade do ventilador
+P0530, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P0531, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P0532, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P0533, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P0534, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P0535, SenTempEvapA/C, Sensor de temperatura do evaporador do ar condicionado
+P0536, SenTempEvapA/C, Sensor de temperatura do evaporador do ar condicionado
+P0537, SenTempEvapA/C, Sensor de temperatura do evaporador do ar condicionado
+P0538, SenTempEvapA/C, Sensor de temperatura do evaporador do ar condicionado
+P0539, SenTempEvapA/C, Sensor de temperatura do evaporador do ar condicionado
+P0540, AquecArAdmissao, Aquecedor do ar de admissão
+P0541, AquecArAdmissao, Aquecedor do ar de admissão
+P0542, AquecArAdmissao, Aquecedor do ar de admissão
+P0543, AquecArAdmissao, Aquecedor do ar de admissão
+P0544, SensorTempEGR, Sensor de temperatura do EGR
+P0545, SensorTempEGR, Sensor de temperatura do EGR
+P0546, SensorTempEGR, Sensor de temperatura do EGR
+P0547, SensTempEscape, Sensor de temperatura do gás de escape
+P0548, SensTempEscape, Sensor de temperatura do gás de escape
+P0549, SensTempEscape, Sensor de temperatura do gás de escape
+P0550, SensPresDirHidr, Sensor de pressão da direção hidráulica
+P0551, DirecHidraulica, Direção Hidráulica
+P0552, SensPresDirHidr, Sensor de pressão da direção hidráulica
+P0553, SensPresDirHidr, Sensor de pressão da direção hidráulica
+P0554, SensPresDirHidr, Sensor de pressão da direção hidráulica
+P0555, SenPresServFreio, Sensor de pressão do servofreio
+P0556, SenPresServFreio, Sensor de pressão do servofreio
+P0557, SenPresServFreio, Sensor de pressão do servofreio
+P0558, SenPresServFreio, Sensor de pressão do servofreio P0559 SenPresServFreio Sensor de pressão do servofreio
+P0560, Tensao, Bateria Tensão da bateria
+P0561, Tensao, Bateria Tensão da bateria
+P0562, Tensao, Bateria Tensão da bateria
+P0563, Tensao, Bateria Tensão da bateria
+P0564, SistPilotoAutom, Sistema de piloto automático
+P0565, SistPilotoAutom, Sistema de piloto automático
+P0566, SistPilotoAutom, Sistema de piloto automático
+P0567, SistPilotoAutom, Sistema de piloto automático
+P0568, SistPilotoAutom, Sistema de piloto automático
+P0569, SistPilotoAutom, Sistema de piloto automático
+P0570, SistPilotoAutom, Sistema de piloto automático
+P0571, SistPilotoAutom, Sistema de piloto automático
+P0572, SistPilotoAutom, Sistema de piloto automático
+P0573, SistPilotoAutom, Sistema de piloto automático
+P0574, SistPilotoAutom, Sistema de piloto automático
+P0575, SistPilotoAutom, Sistema de piloto automático
+P0576, SistPilotoAutom, Sistema de piloto automático
+P0577, SistPilotoAutom, Sistema de piloto automático
+P0578, SistPilotoAutom, Sistema de piloto automático
+P0579, SistPilotoAutom, Sistema de piloto automático
+P0580, SistPilotoAutom, Sistema de piloto automático
+P0581, SistPilotoAutom, Sistema de piloto automático
+P0582, SistPilotoAutom, Sistema de piloto automático
+P0583, SistPilotoAutom, Sistema de piloto automático
+P0584, SistPilotoAutom, Sistema de piloto automático
+P0585, SistPilotoAutom, Sistema de piloto automático
+P0586, SistPilotoAutom, Sistema de piloto automático
+P0587, SistPilotoAutom, Sistema de piloto automático
+P0588, SistPilotoAutom, Sistema de piloto automático
+P0589, SistPilotoAutom, Sistema de piloto automático
+P0590, SistPilotoAutom, Sistema de piloto automático
+P0591, SistPilotoAutom, Sistema de piloto automático
+P0592, SistPilotoAutom, Sistema de piloto automático
+P0593, SistPilotoAutom, Sistema de piloto automático
+P0594, SistPilotoAutom, Sistema de piloto automático
+P0595, SistPilotoAutom, Sistema de piloto automático
+P0596, SistPilotoAutom, Sistema de piloto automático
+P0597, ContrAquTermost, Controle de aquecimento do termostato
+P0598, ContrAquTermost, Controle de aquecimento do termostato
+P0599, ContrAquTermost, Controle de aquecimento do termostato
+P0600, ComunicacaoCAN, Problema na comunicação CAN
+P0601, FalhaMemoriaECU, Falha de memória da ECU
+P0602, ProgramacaoECU, Programação da ECU
+P0603, FalhaMemoriaECU, Falha de memória da ECU
+P0604, FalhaECU, Motor Falha na ECU do motor
+P0605, FalhaMemoriaECU, Falha de memória da ECU
+P0606, FalhaECU, Motor Falha na ECU do motor
+P0607, MauFuncionam.ECU, Mau funcionamento da ECU
+P0608, FalhaECU, Motor Falha na ECU do motor
+P0609, FalhaECU, Motor Falha na ECU do motor
+P0610, FalhaECU, Motor Falha na ECU do motor
+P0611, ECUContrInjetor, ECU de controle do injetor
+P0612, ECUContrInjetor, ECU de controle do injetor
+P0613, ECUTransmissao, ECU da transmissão
+P0614, SinalTCM/ECM, Sinal do TCM e ECM
+P0615, ReleMotorArranq, Relé do motor de arranque
+P0616, ReleMotorArranq, Relé do motor de arranque
+P0617, ReleMotorArranq, Relé do motor de arranque
+P0618, ECUCombustAltern, ECU de combustível alternativo
+P0619, ECUCombustAltern, ECU de combustível alternativo
+P0620, Alternador, Alternador P0621 IndicAlternador Indicador do alternador
+P0622, Alternador, Alternador
+P0623, IndicAlternador, Indicador do alternador
+P0624, IndicTampaComb, Indicador da tampa de combustível
+P0625, Alternador, Alternador P0626 Alternador Alternador
+P0627, ContrBombaCombus, Controle da bomba de combustível
+P0628, ContrBombaCombus, Controle da bomba de combustível
+P0629, ContrBombaCombus, Controle da bomba de combustível
+P0630, NumeroVIN, Número VIN (Número de indentificação do veículo)
+P0631, NumeroVIN, Número VIN (Número de indentificação do veículo)
+P0632, HodomNaoProg, Hodômetro não programado
+P0633, ChaveNaoProgr, Chave não programada
+P0634, TemperaturaECU, Temperatura da ECU
+P0635, ContrDirecAssist, Controle de direção assistida
+P0636, ContrDirecAssist, Controle de direção assistida
+P0637, ContrDirecAssist, Controle de direção assistida
+P0638, AtuadorBorboleta, Atuador da borboleta
+P0639, AtuadorBorboleta, Atuador da borboleta
+P0640, AquecArAdmissao, Aquecedor do ar de admissão
+P0641, TensaoReferenc, Tensão de referência
+P0642, FalhaECU, Motor Falha na ECU do motor
+P0643, TensaoReferenc, Tensão de referência
+P0644, ComputadorBordo, Computador de bordo
+P0645, ArCondicionado, Ar Condicionado
+P0646, ReleEmbreagA/C, Relê da embreagem do ar condicionado
+P0647, ReleEmbreagA/C, Relê da embreagem do ar condicionado
+P0648, IndicadorImobil, Indicador do imobilizador
+P0649, IndicPilotoAutom, Indicador do piloto automático
+P0650, LampDiagnost, Lâmpada de diagnóstico
+P0651, TensaoReferenc, Tensão de referência
+P0652, TensaoReferenc, Tensão de referência
+P0653, TensaoReferenc, Tensão de referência
+P0654, SinalRotacao, Sinal de rotação
+P0655, IndicSobreaqMot, Indicador de sobreaquecimento do motor
+P0656, SaidNivelCombust, Saida de nível de combustível
+P0657, CircAlimentAtuad, Circuito de alimentação dos atuadores
+P0658, CircAlimentAtuad, Circuito de alimentação dos atuadores
+P0659, CircAlimentAtuad, Circuito de alimentação dos atuadores
+P0660, SolenControleAr, Solenóide de controle de ar
+P0661, SolenControleAr, Solenóide de controle de ar
+P0662, SolenControleAr, Solenóide de controle de ar
+P0663, SolenControleAr, Solenóide de controle de ar
+P0664, SolenControleAr, Solenóide de controle de ar
+P0665, SolenControleAr, Solenóide de controle de ar
+P0666, TemperaturaECU, Temperatura da ECU
+P0667, TemperaturaECU, Temperatura da ECU
+P0668, TemperaturaECU, Temperatura da ECU
+P0669, TemperaturaECU, Temperatura da ECU
+P0670, ECUContrVela, ECU de controle das velas
+P0671, VelaCilindro1, Vela Cilindro 1 P0672 VelaCilindro2 Vela Cilindro 2
+P0673, VelaCilindro3, Vela Cilindro 3 P0674 VelaCilindro4 Vela Cilindro 4
+P0675, VelaCilindro5, Vela Cilindro 5 P0676 VelaCilindro6 Vela Cilindro 6
+P0677, VelaCilindro7, Vela Cilindro 7
+P0678, VelaCilindro8, Vela Cilindro 8
+P0679, VelaCilindro9, Vela Cilindro 9
+P0680, VelaCilindro10, Vela Cilindro 10
+P0681, VelaCilindro11, Vela Cilindro 11
+P0682, VelaCilindro12, Vela Cilindro 12
+P0683, LinkComunicacao, Link de comunicação
+P0684, LinkComunicacao, Link de comunicação
+P0685, ReleAlimentECU, Relé de alimentação da ECU
+P0686, ReleAlimentECU, Relé de alimentação da ECU
+P0687, ReleContrMotor, Relé de controle do motor
+P0688, ReleContrMotor, Relé de controle do motor
+P0689, ReleAlimentECU, Relé de alimentação da ECU
+P0690, ReleAlimentECU, Relé de alimentação da ECU
+P0691, Ventilador, Ventilador
+P0692, Ventilador, Ventilador
+P0693, Ventilador, Ventilador
+P0694, Ventilador, Ventilador
+P0695, Ventilador, Ventilador
+P0696, Ventilador, Ventilador
+P0697, TensaoReferenc, Tensão de referência
+P0698, TensaoReferenc, Tensão de referência
+P0699, TensaoReferenc, Tensão de referência
+P0700, SistContrTransm, Sistema de controle da transmissão
+P0701, SistContrTransm, Sistema de controle da transmissão
+P0702, SistContrTransm, Sistema de controle da transmissão
+P0703, ConversorTorque, Conversor de torque
+P0704, SinalIntEmbreag, Sinal do interruptor da embreagem
+P0705, InterrupMudanca, Interruptor de Mudança
+P0706, InterrupMudanca, Interruptor de Mudança
+P0707, InterrupMudanca, Interruptor de Mudança
+P0708, InterrupMudanca, Interruptor de Mudança
+P0709, InterrupMudanca, Interruptor de Mudança
+P0710, SenTempOleoTrans, Sensor de temperatura do óleo da transmissão
+P0711, SenTempOleoTrans, Sensor de temperatura do óleo da transmissão
+P0712, SenTempOleoTrans, Sensor de temperatura do óleo da transmissão
+P0713, SenTempOleoTrans, Sensor de temperatura do óleo da transmissão
+P0714, SenTempOleoTrans, Sensor de temperatura do óleo da transmissão
+P0715, SenRotTurbina, Sensor de rotação da turbina
+P0716, SenRotTurbina, Sensor de rotação da turbina
+P0717, SenRotTurbina, Sensor de rotação da turbina
+P0718, SenRotTurbina, Sensor de rotação da turbina
+P0719, ConversorTorque, Conversor de torque
+P0720, SensorVelocidade, Sensor de velocidade do veículo
+P0721, SensorVelocidade, Sensor de velocidade do veículo
+P0722, SensorVelocidade, Sensor de velocidade do veículo
+P0723, SensorVelocidade, Sensor de velocidade do veículo
+P0724, ConversorTorque, Conversor de torque
+P0725, SinalRotacao, Sinal de rotação
+P0726, SinalRotacao, Sinal de rotação
+P0727, SinalRotacao, Sinal de rotação
+P0728, SinalRotacao, Sinal de rotação
+P0730, RelIncorMarcha, Relação de marcha incorreta
+P0731, RelIncorMarcha1, Relação incorreta da marcha 1
+P0732, RelIncorMarcha2, Relação incorreta da marcha 2
+P0733, RelIncorMarcha3, Relação incorreta da marcha 3
+P0734, RelIncorMarcha4, Relação incorreta da marcha 4
+P0735, RelIncorMarcha5, Relação incorreta da marcha 5
+P0736, RelIncorMarchaRe, Relação incorreta da marcha ré
+P0737, SinalRotMtrTrans, Sinal de rotação do motor na ECU da transmissão
+P0738, SinalRotMtrTrans, Sinal de rotação do motor na ECU da transmissão
+P0739, SinalRotMtrTrans, Sinal de rotação do motor na ECU da transmissão
+P0740, ConversorTorque, Conversor de torque
+P0741, EmbrConvTorque, Embreagem do conversor de torque
+P0742, EmbrConvTorque, Embreagem do conversor de torque
+P0743, ConversorTorque, Conversor de torque
+P0744, EmbrConvTorque, Embreagem do conversor de torque
+P0745, ValPresOleoTrans, Válvula de pressão do óleo da transmissão
+P0746, ValPresOleoTrans, Válvula de pressão do óleo da transmissão
+P0747, ValPresOleoTrans, Válvula de pressão do óleo da transmissão
+P0748, ValPresOleoTrans, Válvula de pressão do óleo da transmissão
+P0749, ValPresOleoTrans, Válvula de pressão do óleo da transmissão
+P0750, SolenMudancaA, Solenóide de mudança A
+P0751, SolenMudancaA, Solenóide de mudança A
+P0752, SolenMudancaA, Solenóide de mudança A
+P0753, SolenMudancaA, Solenóide de mudança A
+P0754, SolenMudancaA, Solenóide de mudança A
+P0755, Solenoide, 2-3 Solenoide 2-3
+P0756, SolenMudancaB, Solenóide de mudança B
+P0757, SolenMudancaB, Solenóide de mudança B
+P0758, SolenMudancaB, Solenóide de mudança B
+P0759, SolenMudancaB, Solenóide de mudança B
+P0760, SolenMudancaC, Solenóide de mudança C
+P0761, SolenMudancaC, Solenóide de mudança C
+P0762, SolenMudancaC, Solenóide de mudança C
+P0763, SolenMudancaC, Solenóide de mudança C
+P0764, SolenMudancaC, Solenóide de mudança C
+P0765, SolenMudancaD, Solenóide de mudança D
+P0766, SolenMudancaD, Solenóide de mudança D
+P0767, SolenMudancaD, Solenóide de mudança D
+P0768, SolenMudancaD, Solenóide de mudança D
+P0769, SolenMudancaD, Solenóide de mudança D
+P0770, SolenMudancaE, Solenóide de mudança E
+P0771, SolenMudancaE, Solenóide de mudança E
+P0772, SolenMudancaE, Solenóide de mudança E
+P0773, SolenMudancaE, Solenóide de mudança E
+P0774, SolenMudancaE, Solenóide de mudança E
+P0775, SolContrPresB, Solenóide de controle da pressão B
+P0776, SolContrPresB, Solenóide de controle da pressão B
+P0777, SolContrPresB, Solenóide de controle da pressão B
+P0778, SolContrPresB, Solenóide de controle da pressão B
+P0779, SolContrPresB, Solenóide de controle da pressão B
+P0780, FalhaMudanca, Falha mudança
+P0781, FalhaMudanca1-2, Falha mudança 1-2
+P0782, FalhaMudanca2-3, Falha Mudança 2-3
+P0783, FalhaMudanca3-4, Falha mudança 3-4
+P0784, FalhaMudanca4-5, Falha mudança 4-5
+P0785, SolenoideMudanca, Solenóide mudança
+P0786, SolenoideMudanca, Solenóide mudança
+P0787, SolenoideMudanca, Solenóide mudança
+P0788, SolenoideMudanca, Solenóide mudança
+P0789, SolenoideMudanca, Solenóide mudança
+P0790, InterrupMudanca, Interruptor de Mudança
+P0791, SenVelEixoInterm, Sensor de velocidade do eixo intermediário
+P0792, SenVelEixoInterm, Sensor de velocidade do eixo intermediário
+P0793, SenVelEixoInterm, Sensor de velocidade do eixo intermediário
+P0794, SenVelEixoInterm, Sensor de velocidade do eixo intermediário
+P0795, SolContrPresC, Solenóide de controle de pressão C
+P0796, SolContrPresC, Solenóide de controle de pressão C
+P0797, SolContrPresC, Solenóide de controle de pressão C
+P0798, SolContrPresC, Solenóide de controle de pressão C
+P0799, SolContrPresC, Solenóide de controle de pressão C
+P0800, SistContrTransm, Sistema de controle da transmissão
+P0801, SolenInibidorRe, Solenóide inibidora da marcha ré
+P0802, SistContrTransm, Sistema de controle da transmissão
+P0803, ValvMudanAscend, Válvula de mudança ascendente
+P0804, ValvMudanAscend, Válvula de mudança ascendente
+P0805, SistemaEmbreagem, Sistema de embreagem
+P0806, SistemaEmbreagem, Sistema de embreagem
+P0807, SistemaEmbreagem, Sistema de embreagem
+P0808, SistemaEmbreagem, Sistema de embreagem
+P0809, SistemaEmbreagem, Sistema de embreagem
+P0810, ContrPosicEmbr, Controle de posição da embregem
+P0811, EscorregEmbreag, Escorregamento da embregem
+P0812, MarchaRe, Marcha Ré P0813 MarchaRe Marcha Ré
+P0814, DisplayMudMarcha, Display de mudança de marcha
+P0815, InterMudAscend, Interruptor de mudança ascendente
+P0816, InterMudDescend, Interruptor de mudança descendente
+P0817, DesabMotorArranq, Desabilitação do motor de arranque
+P0818, IntDescSistTrans, Interruptor de desconexão do sistema de transmissão
+P0819, InterrupMudanca, Interruptor de Mudança
+P0820, SenPosAlavMudMar, Sensor de posição da alavanca de mudança de marcha
+P0821, SenPosAlavMudMar, Sensor de posição da alavanca de mudança de marcha
+P0822, SenPosAlavMudMar, Sensor de posição da alavanca de mudança de marcha
+P0823, SenPosAlavMudMar, Sensor de posição da alavanca de mudança de marcha
+P0824, SenPosAlavMudMar, Sensor de posição da alavanca de mudança de marcha
+P0825, InterrupMudanca, Interruptor de Mudança
+P0826, InterrupMudanca, Interruptor de Mudança
+P0827, InterrupMudanca, Interruptor de Mudança
+P0828, InterrupMudanca, Interruptor de Mudança
+P0829, InterMudAscend, Interruptor de mudança ascendente
+P0830, SinalIntEmbreag, Sinal do interruptor da embreagem
+P0831, SinalIntEmbreag, Sinal do interruptor da embreagem
+P0832, SinalIntEmbreag, Sinal do interruptor da embreagem
+P0833, SinalIntEmbreag, Sinal do interruptor da embreagem
+P0834, SinalIntEmbreag, Sinal do interruptor da embreagem
+P0835, SinalIntEmbreag, Sinal do interruptor da embreagem
+P0836, Interruptor4x4, Interruptor 4x4
+P0837, Interruptor4x4, Interruptor 4x4
+P0838, Interruptor4x4, Interruptor 4x4
+P0839, Interruptor4x4, Interruptor 4x4
+P0840, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0841, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0842, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0843, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0844, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0845, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0846, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0847, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0848, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0849, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0850, InterruptorP/N, Interruptor P/N P0851 InterruptorP/N Interruptor P/N
+P0852, InterruptorP/N, Interruptor P/N P0853 InterruptorD Interruptor D
+P0854, InterruptorD, Interruptor D P0855 InterruptorD Interruptor D
+P0856, SinalContrTrac, Sinal do controle de tração
+P0857, SinalContrTrac, Sinal do controle de tração
+P0858, SinalContrTrac, Sinal do controle de tração
+P0859, SinalContrTrac, Sinal do controle de tração
+P0860, LinkComunTransm, Link de comunicação da transmissão
+P0861, LinkComunTransm, Link de comunicação da transmissão
+P0862, LinkComunTransm, Link de comunicação da transmissão
+P0863, LinkComunTransm, Link de comunicação da transmissão
+P0864, LinkComunTransm, Link de comunicação da transmissão
+P0865, LinkComunTransm, Link de comunicação da transmissão
+P0866, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0867, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0868, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0869, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0870, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0871, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0872, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0873, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0874, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0875, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0876, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0877, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0878, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0879, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0880, ECUTransmissao, ECU da transmissão
+P0881, ECUTransmissao, ECU da transmissão
+P0882, ECUTransmissao, ECU da transmissão
+P0883, ECUTransmissao, ECU da transmissão
+P0884, ECUTransmissao, ECU da transmissão
+P0885, ReleAlimentECU, Relé de alimentação da ECU
+P0886, ReleAlimentECU, Relé de alimentação da ECU
+P0887, ReleAlimentECU, Relé de alimentação da ECU
+P0888, ReleAlimentECU, Relé de alimentação da ECU
+P0889, ReleAlimentECU, Relé de alimentação da ECU
+P0890, ReleAlimentECU, Relé de alimentação da ECU
+P0891, ReleAlimentECU, Relé de alimentação da ECU
+P0892, ReleAlimentECU, Relé de alimentação da ECU
+P0893, VariasMarchasEng, Várias marchas engatadas
+P0894, EscorregTransmis, Escorregamento da transmissão
+P0895, TempMudanMarcPeq, Tempo de mudança de marcha pequeno
+P0896, TempMudanMarcLon, Tempo de mudança de marcha longo
+P0897, OleoTransmDeter, Óleo da transmissão deteriorado
+P0898, SistContrTransm, Sistema de controle da transmissão
+P0899, SistContrTransm, Sistema de controle da transmissão
+P0900, AtuadorEmbreagem, Atuador da embreagem
+P0901, AtuadorEmbreagem, Atuador da embreagem
+P0902, AtuadorEmbreagem, Atuador da embreagem
+P0903, AtuadorEmbreagem, Atuador da embreagem
+P0904, CircPosicNeutro, Circuito da posição neutro
+P0905, CircPosicNeutro, Circuito da posição neutro
+P0906, CircPosicNeutro, Circuito da posição neutro
+P0907, CircPosicNeutro, Circuito da posição neutro
+P0908, CircPosicNeutro, Circuito da posição neutro
+P0909, RegulPosicNeutro, Regulação da posição neutro
+P0910, AtuadPosicNeutro, Atuador da posição neutro
+P0911, AtuadPosicNeutro, Atuador da posição neutro
+P0912, AtuadPosicNeutro, Atuador da posição neutro
+P0913, AtuadPosicNeutro, Atuador da posição neutro
+P0914, CircPosicMarcha, Circuito de posição da marcha
+P0915, CircPosicMarcha, Circuito de posição da marcha
+P0916, CircPosicMarcha, Circuito de posição da marcha
+P0917, CircPosicMarcha, Circuito de posição da marcha
+P0918, CircPosicMarcha, Circuito de posição da marcha
+P0919, ContrPosicMarcha, Controle de posição da marcha
+P0920, IndicMudanAscend, Indicador de mudança ascendente
+P0921, IndicMudanAscend, Indicador de mudança ascendente
+P0922, IndicMudanAscend, Indicador de mudança ascendente
+P0923, IndicMudanAscend, Indicador de mudança ascendente
+P0924, InterMudDescend, Interruptor de mudança descendente
+P0925, InterMudDescend, Interruptor de mudança descendente
+P0926, InterMudDescend, Interruptor de mudança descendente
+P0927, InterMudDescend, Interruptor de mudança descendente
+P0928, ValvulaShiftLock, Válvula Shift Lock
+P0929, ValvulaShiftLock, Válvula Shift Lock
+P0930, ValvulaShiftLock, Válvula Shift Lock
+P0931, ValvulaShiftLock, Válvula Shift Lock
+P0932, SenPresHidraulic, Sensor de pressão hidráulica
+P0933, SenPresHidraulic, Sensor de pressão hidráulica
+P0934, SenPresHidraulic, Sensor de pressão hidráulica
+P0935, SenPresHidraulic, Sensor de pressão hidráulica
+P0936, SenPresHidraulic, Sensor de pressão hidráulica
+P0937, SensTempOleoHidr, Sensor de temperatura do óleo hidráulico
+P0938, SensTempOleoHidr, Sensor de temperatura do óleo hidráulico
+P0939, SensTempOleoHidr, Sensor de temperatura do óleo hidráulico
+P0940, SensTempOleoHidr, Sensor de temperatura do óleo hidráulico
+P0941, SensTempOleoHidr, Sensor de temperatura do óleo hidráulico
+P0942, UnidPresHidraul, Unidade de pressão hidráulica
+P0943, UnidPresHidraul, Unidade de pressão hidráulica
+P0944, UnidPresHidraul, Unidade de pressão hidráulica
+P0945, ReleBombaHidraul, Relé da bomba hidráulica
+P0946, ReleBombaHidraul, Relé da bomba hidráulica
+P0947, ReleBombaHidraul, Relé da bomba hidráulica
+P0948, ReleBombaHidraul, Relé da bomba hidráulica
+P0949, EmbreagAutomatic, Embreagem automática
+P0950, CircEmbreagAutom, Circuito da embreagem automática
+P0951, CircEmbreagAutom, Circuito da embreagem automática
+P0952, CircEmbreagAutom, Circuito da embreagem automática
+P0953, CircEmbreagAutom, Circuito da embreagem automática
+P0954, EmbreagAutomatic, Embreagem automática
+P0955, CircEmbreagAutom, Circuito da embreagem automática
+P0956, CircEmbreagAutom, Circuito da embreagem automática
+P0957, CircEmbreagAutom, Circuito da embreagem automática
+P0958, CircEmbreagAutom, Circuito da embreagem automática
+P0959, CircEmbreagAutom, Circuito da embreagem automática
+P0960, SolContrPresA, Solenóide de controle da pressão A
+P0961, SolContrPresA, Solenóide de controle da pressão A
+P0962, SolContrPresA, Solenóide de controle da pressão A
+P0963, SolContrPresA, Solenóide de controle da pressão A
+P0964, SolContrPresB, Solenóide de controle da pressão B
+P0965, SolContrPresB, Solenóide de controle da pressão B
+P0966, SolContrPresB, Solenóide de controle da pressão B
+P0967, SolContrPresB, Solenóide de controle da pressão B
+P0968, SolContrPresC, Solenóide de controle de pressão C
+P0969, SolContrPresC, Solenóide de controle de pressão C
+P0970, SolContrPresC, Solenóide de controle de pressão C
+P0971, SolContrPresC, Solenóide de controle de pressão C
+P0972, SolenMudancaA, Solenóide de mudança A
+P0973, SolenMudancaA, Solenóide de mudança A
+P0974, SolenMudancaA, Solenóide de mudança A
+P0975, SolenMudancaB, Solenóide de mudança B
+P0976, SolenMudancaB, Solenóide de mudança B
+P0977, SolenMudancaB, Solenóide de mudança B
+P0978, SolenMudancaC, Solenóide de mudança C
+P0979, SolenMudancaC, Solenóide de mudança C
+P0980, SolenMudancaC, Solenóide de mudança C
+P0981, SolenMudancaD, Solenóide de mudança D
+P0982, SolenMudancaD, Solenóide de mudança D
+P0983, SolenMudancaD, Solenóide de mudança D
+P0984, SolenMudancaE, Solenóide de mudança E
+P0985, SolenMudancaE, Solenóide de mudança E
+P0986, SolenMudancaE, Solenóide de mudança E
+P0987, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0988, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0989, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0990, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0991, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0992, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0993, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0994, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0995, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0996, SenPresOleoTrans, Sensor de pressão do óleo da transmissão
+P0997, SolenMudancaF, Solenóide de mudança F
+P0998, SolenMudancaF, Solenóide de mudança F
+P0999, SolenMudancaF, Solenóide de mudança F
+P1000, DiagInternIncomp, Diagnóstico interno incompleto
+P1001, DiagInternIncomp, Diagnóstico interno incompleto
+P1101, SensorMAF, Sensor MAF
+P1105, SensorBarometric, Sensor barométrico
+P1106, SensorMAP, Sensor MAP
+P1107, SensorMAP, Sensor MAP
+P1109, CircValvulaIMT, Circuito da válvula IMT (intake manifold timing)
+P1111, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P1112, SensTempAr, Sensor de Temperatura do Ar de Admissão
+P1114, SensTempAgua, Sensor de Temperatura da água
+P1115, SensTempAgua, Sensor de Temperatura da água
+P1116, SensTempAgua, Sensor de Temperatura da água
+P1117, SensTempAgua, Sensor de Temperatura da água
+P1120, CircPosicBorbol, Circuito do sensor de posição da borboleta
+P1121, CircPosicBorbol, Circuito do sensor de posição da borboleta
+P1122, CircPosicBorbol, Circuito do sensor de posição da borboleta
+P1124, CircPosicBorbol, Circuito do sensor de posição da borboleta
+P1125, SensorPosicBorb, Sensor de posição da borboleta
+P1130, SondaLambda1B1, Sonda Lambda 1 banco 1
+P1131, SondaLambda2B1, Sonda lambda 2 banco 1
+P1132, SondaLambda1B2, Sonda Lambda 1 banco 2
+P1133, SondaLambda1B1, Sonda Lambda 1 banco 1
+P1134, SondaLambda1B1, Sonda Lambda 1 banco 1
+P1153, SondaLambda1B2, Sonda Lambda 1 banco 2
+P1154, SondaLambda1B2, Sonda Lambda 1 banco 2
+P1167, SondaLambda, Sonda Lambda
+P1171, SondaLambda, Sonda Lambda
+P1173, TemperaturaMotor, Temperatura do motor
+P1195, IntPressaoOleo, Interruptor de pressão do óleo
+P1220, SensorPosicBorb, Sensor de posição da borboleta
+P1224, SensorPosicBorb, Sensor de posição da borboleta
+P1230, BombaCombustivel, Bomba de combustível
+P1231, ReleBombaCombust, Relê da bomba de combustível
+P1232, BombaCombustivel, Bomba de combustível
+P1233, BombaCombustivel, Bomba de combustível
+P1234, BombaCombustivel, Bomba de combustível
+P1235, BombaCombustivel, Bomba de combustível
+P1236, BombaCombustivel, Bomba de combustível
+P1237, BombaCombustivel, Bomba de combustível
+P1238, BombaCombustivel, Bomba de combustível
+P1260, TentativaRoubo, Tentativa de roubo
+P1270, RotacMaximMotor, Rotação máxima do motor
+P1289, SenTempCabCilind, Sensor de temperatura da cabeça do cilindro
+P1290, SenTempCabCilind, Sensor de temperatura da cabeça do cilindro
+P1294, MarchaLenta, Marcha-lenta
+P1296, SensorMAP, Sensor MAP
+P1297, SensorMAP, Sensor MAP
+P1299, MarchaLenta, Marcha-lenta
+P1336, PosicVirabrequim, Posição do virabrequim
+P1345, SincVirabComValv, Sincronismo entre virabrequim e comando de válvulas
+P1351, SistemaIgnicao, Sistema de ignição
+P1352, SistemaIgnicao, Sistema de ignição
+P1353, SistemaIgnicao, Sistema de ignição
+P1358, SistemaIgnicao, Sistema de ignição
+P1359, SistemaIgnicao, Sistema de ignição
+P1361, SistemaIgnicao, Sistema de ignição
+P1380, FalhaIgnicao, Falha de ignição
+P1381, FalhaIgnicao, Falha de ignição
+P1390, RegulOctanComb, Regulação devido a octanagem do combustível
+P1391, SensorFase, Sensor de posição do comando de vávulas
+P1392, SensTerrenIrreg, Sensor de terreno irregular
+P1393, SensTerrenIrreg, Sensor de terreno irregular
+P1396, SensVelocidRoda, Sensor de velocidade da roda
+P1397, SensVelocidRoda, Sensor de velocidade da roda
+P1398, ControlTorqTrans, Controle de torque da transmissão
+P1400, SistemaEGR, Sistema EGR
+P1401, SistemaEGR, Sistema EGR
+P1404, SistemaEGR, Sistema EGR
+P1405, SistemaEGR, Sistema EGR
+P1406, SistemaEGR, Sistema EGR
+P1408, SistemaEGR, Sistema EGR
+P1409, SistemaEGR, Sistema EGR
+P1410, SensorPresTanque, Sensor de pressão do tanque
+P1413, BombaDeAr, Bomba de ar
+P1414, BombaDeAr, Bomba de ar
+P1441, PurgaEVAP, Purga do sistema de emissão evaporativa EVAP
+P1443, ValvulaCanister, Válvula Canister
+P1451, SistemaCanister, Sistema Canister
+P1460, ArCondicionado, Ar Condicionado
+P1461, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P1462, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P1464, ArCondicionado, Ar Condicionado
+P1473, Ventilador, Ventilador
+P1474, ContrVentBaixa, Controle do ventilador - baixa velocidade
+P1479, ContrVentAlta, Controle do ventilador - alta velocidade
+P1480, Ventilador, Ventilador
+P1481, Ventilador, Ventilador
+P1482, ControleVentil2, Controle do ventilador 2
+P1483, Ventilador, Ventilador
+P1484, Ventilador, Ventilador
+P1487, SistemaEGR, Sistema EGR
+P1489, ContrVentAlta, Controle do ventilador - alta velocidade
+P1490, ContrVentBaixa, Controle do ventilador - baixa velocidade
+P1492, Tensao, Bateria Tensão da bateria
+P1493, Tensao, Bateria Tensão da bateria
+P1494, SistemaCanister, Sistema Canister
+P1496, Alimentacao, ECU Alimentação da ECU
+P1498, ContrVentAlta, Controle do ventilador - alta velocidade
+P1500, SensorVelocidade, Sensor de velocidade do veículo
+P1501, Imobilizador, Imobilizador P1502 Imobilizador Imobilizador
+P1503, Imobilizador, Imobilizador
+P1504, SistControleML, Sistema de controle de marcha lenta
+P1505, SistControleML, Sistema de controle de marcha lenta
+P1508, SistControleML, Sistema de controle de marcha lenta
+P1509, SistControleML, Sistema de controle de marcha lenta
+P1510, InterruptorML, Interruptor da marcha lenta
+P1516, SistControleML, Sistema de controle de marcha lenta
+P1517, SistControleML, Sistema de controle de marcha lenta
+P1518, SistControleML, Sistema de controle de marcha lenta
+P1519, SistControleML, Sistema de controle de marcha lenta
+P1520, SistControleML, Sistema de controle de marcha lenta
+P1530, ReleA/C, Relé do ar condicionado
+P1537, SistControleML, Sistema de controle de marcha lenta
+P1538, SistControleML, Sistema de controle de marcha lenta
+P1539, EmbreagemA/C, Embreagem do ar condicionado
+P1540, SensorPressaoA/C, Sensor de pressão do ar condicionado
+P1549, SistControleML, Sistema de controle de marcha lenta
+P1550, SistemaContrTrac, Sistema de controle de tração
+P1560, ChaveIgnicao, Chave ignição
+P1571, InterruptorFreio, Interruptor do freio
+P1572, SistemaABS, Sistema ABS
+P1600, MauFuncionam.ECU, Mau funcionamento da ECU
+P1601, LinkComunTransm, Link de comunicação da transmissão
+P1602, MauFuncionam.ECU, Mau funcionamento da ECU
+P1604, MauFuncionam.ECU, Mau funcionamento da ECU
+P1605, MauFuncionam.ECU, Mau funcionamento da ECU
+P1607, MauFuncionam.ECU, Mau funcionamento da ECU
+P1608, MotorEmbreagem, Motor da embreagem
+P1609, MauFuncionam.ECU, Mau funcionamento da ECU
+P1610, ImobNaoProgramad, Imobilizador não programado
+P1611, CodSegurIncorret, Código de segurança incorreto
+P1612, SinalImobilizad, Sinal do imobilizador
+P1613, SinalImobilizad, Sinal do imobilizador
+P1614, ChaveIncorreta, Chave Incorreta
+P1615, DadosInvCarroc, Dados inválidos do módulo de controle da carroceria
+P1616, DadosInvPainel, Dados inválidos do módulo de controle do painel
+P1620, TensaoReferenc, Tensão de referência
+P1625, Alimentacao, ECU Alimentação da ECU
+P1626, Alimentacao, ECU Alimentação da ECU
+P1630, ReleBombaCombust, Relê da bomba de combustível
+P1631, SinalImobilizad, Sinal do imobilizador P1635 TensaoReferenc Tensão de referência
+P1650, InterPresDirHidr, Interruptor de pressão da direção hidráulica
+P1651, DirecHidraulica, Direção Hidráulica
+P1655, MauFuncionam.ECU, Mau funcionamento da ECU
+P1696, Falha, EEPROM Falha na memória EEPROM
+P1697, LampDiagnost, Lâmpada de diagnóstico
+P1698, LinkComunicacao, Link de comunicação
+P1700, Transmissao, Transmissão
+P1703, InterruptorFreio, Interruptor do freio
+P1705, InterruptorP/N, Interruptor P/N
+P1706, TemperEmbreagem, Temperatura da embreagem
+P1707, AjusteEmbreagem, Ajuste da embreagem
+P1709, InterruptorP/N, Interruptor P/N
+P1710, SensVelocidRoda, Sensor de velocidade da roda
+P1711, SenTempOleoTrans, Sensor de temperatura do óleo da transmissão
+P1712, SensVelocRodaDD, Sensor de velocidade da roda dianteira direita
+P1722, AtuadorSelecao, Atuador Seleção
+P1723, AtuadorSelecao, Atuador Seleção
+P1725, MotorMudanca, Motor de mudança
+P1726, MotorMudanca, Motor de mudança
+P1727, MotorMudanca, Motor de mudança
+P1728, MotorMudanca, Motor de mudança
+P1729, MotorMudanca, Motor de mudança
+P1730, MotorMudanca, Motor de mudança
+P1731, TemperatTranmiss, Temperatura da transmissão
+P1732, CaixaTransmissao, Caixa de transmissão
+P1733, ErroConfiguracao, Erro de configuração
+P1734, AjusteEmbreagem, Ajuste da embreagem
+P1735, AprendizTransmis, Aprendizado da transmissão
+P1740, TemperatTranmiss, Temperatura da transmissão
+P1746, ControlTorqTrans, Controle de torque da transmissão
+P1747, ControlTorqTrans, Controle de torque da transmissão
+P1779, SinTorqueMotor, Sinal do torque do motor
+P1789, SolenMudancaA, Solenóide de mudança A
+P1813, SinalTorque, Sinal de torque
+P1870, ConversorTorque, Conversor de torque
+P1895, SinTorqueMotor, Sinal do torque do motor
+P1896, SinTorqueMotor, Sinal do torque do motor
+P1899, InterruptorP/N, Interruptor P/N
+P2195, SondaLambda, Sonda Lambda
+P2196, SondaLambda, Sonda Lambda
+P2279, VazamArAdmissao, Vazamento de ar da admissão
+P2422, ValvulaCanister, Válvula Canister
+P2610, TemporDeslMotor, Temporizador de desligamento do motor
+U2100, FalhaNaCAN, Falha na CAN
+U2101, FalhaNaCAN, Falha na CAN
+U2103, FalhaNaCAN, Falha na CAN
+U2104, FalhaNaCAN, Falha na CAN
+U2105, FalhaNaCAN, Falha na CAN
+U2106, ComunicTransAut, Comunicação da transmissão automática
+U2107, LinkComunCarroc, Link de comunicação do módulo de controle da carroceria
+U2108, ComunicacABS, CAN Comunicação com ABS pela CAN
