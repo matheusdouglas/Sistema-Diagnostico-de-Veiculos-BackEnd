@@ -16,7 +16,9 @@ logging.basicConfig(level=logging.DEBUG,
 app = Flask(__name__)
 CORS(app)  # Configurar o CORS
 
-client = openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+client = openai
 
 class VehicleDiagnosticSystem:
     def __init__(self, csv_file):
